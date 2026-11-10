@@ -1,4 +1,4 @@
-const CACHE_NAME = 'play-remi-pwa-v1';
+const CACHE_NAME = 'play-remi-pwa-v2';
 const APP_ROOT = self.registration.scope;
 
 self.addEventListener('install', event => {
